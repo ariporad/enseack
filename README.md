@@ -4,10 +4,15 @@
 ### TODOs
 
 Work on the powerpoint, work on the shiny, work on the bridge C/Dart. 
+
 We have nothing with the code, I wasnt able to pull something, I overscoped the amount of time required to build an app in flutter.
+
 THE POWERPOINT IS EVERYTHING.
+
 I think, dont spend more than 1 hour on Flutter, if nothing comes out within one hour, work on a proof of concept in pyhthon.
+
 Way much more easier in python on a computer.
+
 Flutter ? Not in 24hours.
 
 ### About Flutter
